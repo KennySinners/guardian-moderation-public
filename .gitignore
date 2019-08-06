@@ -1,0 +1,9 @@
+.vs
+.vscode
+.idea
+node_modules
+.jshintrc
+package-lock.json
+Procfile
+start.bat
+Config.json
